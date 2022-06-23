@@ -442,7 +442,7 @@ leaflet(states_merged_15_16) %>%
             position = "bottomright")
 ```
 
-**Top issues in blls sponsored by lobbying 2015-2016**
+**Top issues in bills sponsored by lobbying 2015-2016**
 
 ```{r top issues 15-16}
 lob_issues_15_16 <- lob_bills_full_15_16 %>% 
@@ -542,7 +542,7 @@ leaflet(states_merged_18_19) %>%
             position = "bottomright")
 ```
 
-**Top issues in blls sponsored by lobbying 2018-2019**
+**Top issues in bills sponsored by lobbying 2018-2019**
 
 ```{r gis top issues 18-19}
 lob_issues_18_19 <- lob_bills_full_18_19 %>% 
